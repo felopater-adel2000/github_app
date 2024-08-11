@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Github Repos</string>
+    <string name="reload">Reload</string>
+    <string name="no_internet">No Internet</string>
+    <string name="something_went_wrong">Something Went Wrong</string>
+    <string name="search">Search</string>
+    <string name="logout">Logout</string>
+    <string name="type_here">Type Here</string>
+    <string name="enter_search_query">Enter Search Query</string>
+    <string name="no_data">No Data</string>
+    <string name="register_welcome_text">Hello! Register Now</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter your Password must be grater than 6 Characters</string>
+    <string name="confirm_password">Confirmation Password</string>
+    <string name="passwords_are_not_matched">Passwords are not matched</string>
+    <string name="register">Register</string>
+    <string name="text_error">Error</string>
+    <string name="text_ok">Ok</string>
+    <string name="text_success">Success</string>
+    <string name="success">Success</string>
+    <string name="login_now">Login Now and Enjoy</string>
+    <string name="login">Login</string>
+    <string name="register_now">Register Now</string>
+    <string name="back_to_login"><![CDATA[Back to Login >]]></string>
+    <string name="log_in_with_facebook">Login with Facebook</string>
+    <string name="log_in_with_google">Login with Google</string>
+
+    <string name="facebook_app_id">1238718363818741</string>
+    <string name="fb_login_protocol_scheme">fb1238718363818741</string>
+    <string name="facebook_client_token">0270456829d31ea4df92b41cf21f9e6e</string>
+</resources>

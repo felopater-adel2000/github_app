@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "839882385863",
+    "project_id": "github-app-54d6c",
+    "storage_bucket": "github-app-54d6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839882385863:android:c47e0d0abdf6ed10f891e2",
+        "android_client_info": {
+          "package_name": "com.felo.github_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839882385863-ld68qmv5o9pq7i0kpnbnho9rubcmiveq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.felo.github_app",
+            "certificate_hash": "241d02d7c9f867387034df8432b69362e48dcd93"
+          }
+        },
+        {
+          "client_id": "839882385863-k3bu6qec1t2t2qgbv4g7eibr7q22ddtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHv79A_IpehsxFuBJ29sD9pXyAOPAw6uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839882385863-k3bu6qec1t2t2qgbv4g7eibr7q22ddtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
