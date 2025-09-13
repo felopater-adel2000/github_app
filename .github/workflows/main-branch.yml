@@ -1,15 +1,21 @@
 name: TestWorkflow
 
-on:
+on: # Define Trigger
   push:
     branches:
       - main
 
-jobs:
-  Custom-Workflow:
-    runs-on: ubuntu-latest
 
-    steps:
+jobs: # Define Job
+  Custom-Workflow: # Jon Nanme
+    runs-on: ubuntu-latest # Runner
+
+    steps: # Custom-Workflow Job Steps
+    # Every step contains 2 main components
+    #  1. Step Name
+    #  2. Execution
+    #    a. `uses` for using ready Action in Marketplace
+    #    b. `run` for running Command
       - name: Print Hello
         run: | 
           echo "Hello, World"
@@ -17,7 +23,7 @@ jobs:
       - name: checkout branch
         uses: actions/checkout@v5.0.0
 
-      - name: list all Directory and Folders
+      - name: list all Directories and Folders
         run: |
           pwd
           ls -R
